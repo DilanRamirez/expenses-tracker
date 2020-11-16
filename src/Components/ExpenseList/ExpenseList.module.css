@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+}
+
+.header_expenses {
+  background-color: #f06966;
+  color: white;
+}
+
+.header_budget {
+  background-color: #6abe83;
+  color: white;
+}
+
+.container_expenses {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center_elements {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.picture {
+  height: 10%;
+}
